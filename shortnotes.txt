@@ -1,1 +1,11 @@
 git status --- gives the status of the directory or the repository
+git status --> gives the status of the directory or the repository
+git init --> initialises a file into repository which can be tracked
+
+git add --a --> adds all the files into staging area
+git commit --> commits all the files from staging area
+git commit -m "your msg here" --> commits with a message
+git log --> gives the log of commits made 
+
+all the files which are commited into the git ,can be traced and will
+observe anything which gets changed in the files
