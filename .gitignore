@@ -1,2 +1,5 @@
+*.log
 error.log
+dir_to_ignored/
+
 
