@@ -1,2 +1,4 @@
 this is something i want to make
 so i want to commit this to 2
+
+in this i have made a new text file called second , but it is untracked
